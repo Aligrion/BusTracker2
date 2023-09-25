@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "BusTracker",
+    "slug": "BusTracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
